@@ -48,7 +48,7 @@ html {
 }
 
 body {
-  font-family: var(--font-petit);
+  font-family: var(--font-inter);
   background-color: var(--bg-dark);
   color: var(--text-main);
   line-height: 1.6;
@@ -73,8 +73,8 @@ body {
 .font-outfit { font-family: var(--font-outfit); }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-atomic);
-  font-weight: 400;
+  font-family: var(--font-outfit);
+  font-weight: 700;
   line-height: 1.2;
 }
 
